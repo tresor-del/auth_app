@@ -2,16 +2,18 @@
 
 Bienvenue dans l'application d'authentification Django ! Cette application fournit une solution simple et flexible pour gérer les utilisateurs, l'authentification, et les autorisations dans vos projets Django.
 
+*Note*: ce projet est toujours en développement
+
 ---
 
 ## Fonctionnalité
 
 - **Inscription et connexion utilisateur**
-- **Réinitialisation de mot de passe via e-mail**
-- **Connexion via des fournisseurs OAuth (Google, Facebook, etc.)**
+- **Réinitialisation de mot de passe via e-mail** (en cours)
+- **Connexion via des fournisseurs OAuth (Google, Facebook, etc.)**(en cours)
 - **Gestion des rôles et permissions**
 - **JSON Web Tokens (JWT) pour l'authentification API**
-- **Panneau d'administration pour gérer les utilisateurs**
+- **Panneau d'administration pour gérer les utilisateurs**(en cours)
 
 ---
 
