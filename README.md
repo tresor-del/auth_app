@@ -56,7 +56,7 @@ Bienvenue dans l'application d'authentification Django ! Cette application fourn
      ```python
      INSTALLED_APPS = [
          ...
-         'mon_app_auth',  # Remplacez par le nom de votre application
+         'auth_app',  
      ]
      ```
 
@@ -159,12 +159,6 @@ Ce projet est sous licence [MIT](LICENSE).
 
 ## Auteur
 
-Développé par [Votre Nom](https://github.com/votre-utilisateur).
+Développé par [tresor-del](https://github.com/tresor-del).
 
----
-
-## Remarques
-
-- Assurez-vous de configurer correctement vos clés secrètes et autres paramètres sensibles en utilisant des variables d'environnement.
-- Consultez la documentation officielle de Django et Django REST Framework pour plus d'informations.
 
