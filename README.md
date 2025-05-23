@@ -22,8 +22,8 @@ Bienvenue dans l'application d'authentification Django ! Cette application fourn
 1. Clonez le dépôt dans votre environnement de développement local :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repository.git
-   cd votre-repository
+   git clone https://github.com/tresor-del/auth_app.git
+   cd auth_app
    ```
 
 2. Installez les dépendances nécessaires :
